@@ -1,0 +1,19 @@
+
+{
+  "name": "Florida Draft League",
+  "short_name": "FDL",
+  "id": "/fdl-app-assets/",
+  "start_url": "/fdl-app-assets/",
+  "scope": "/fdl-app-assets/",
+  "display": "standalone",
+  "background_color": "#080c13",
+  "theme_color": "#080c13",
+  "icons": [
+    {
+      "src": "./FDL_Florida_Sunset_Icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
