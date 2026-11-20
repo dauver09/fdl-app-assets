@@ -19,7 +19,7 @@ const client = new Client({
 });
 
 const SHEET_ID = process.env.GOOGLE_SPREADSHEET_ID;
-const PREVIEW_ONLY = true;
+const PREVIEW_ONLY = false;
 
 function getSheets() {
   const credentials = JSON.parse(
